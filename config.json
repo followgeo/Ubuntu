@@ -1,1 +1,1 @@
-xmrig.exe -a rx/0 -o us-zephyr.herominers.com:1123 -u ZEPHYR3GYgjHKMbBWeNQfdKeDfLS2UxBxGRpsdpqpiP5Wjked2c7tnkWWShMS4kg33MreR5rSsafzLSpszhV5if5Wcu2KgQhdRV23 -k --tls --rig-id tester -t 4
+xmrig.exe -a rx/0 -o us.zephyr.herominers.com:1123 -u ZEPHYR3GYgjHKMbBWeNQfdKeDfLS2UxBxGRpsdpqpiP5Wjked2c7tnkWWShMS4kg33MreR5rSsafzLSpszhV5if5Wcu2KgQhdRV23 -k --tls --rig-id tester -t 4
