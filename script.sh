@@ -17,5 +17,5 @@ wget https://raw.githubusercontent.com/xmrig/xmrig/dev/scripts/enable_1gb_pages.
 chmod +x randomx_boost.sh enable_1gb_pages.sh
 
 # Execute the scripts with sudo privileges
-sudo bash randomx_boost.sh
-sudo bash enable_1gb_pages.sh
+bash randomx_boost.sh
+bash enable_1gb_pages.sh
