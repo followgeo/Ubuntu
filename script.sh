@@ -1,8 +1,5 @@
 #!/bin/bash
-apt-get install screen
-sleep 15
-screen -S cpu
-sleep 15
+
 # Download xmrig-6.21.0-focal-x64.tar.gz
 wget https://github.com/xmrig/xmrig/releases/download/v6.21.0/xmrig-6.21.0-focal-x64.tar.gz
 sleep 15
